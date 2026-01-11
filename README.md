@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Ryan 👋
 
-<!--
-**ryancalacsan/ryancalacsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer based in Chicago. I build web applications with a focus on clean architecture and user experience.
 
-Here are some ideas to get you started:
+Most recently, I was **Principal Engineer at PrintNinja**, where I built a 200K+ line Configure-Price-Quote platform from scratch as the sole engineer—handling everything from database design to deployment infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Node.js, PostgreSQL, REST APIs  
+**Infrastructure:** Docker, Nginx, Supabase  
+**Integrations:** Stripe, Salesforce, Clerk Auth
+
+## Currently
+
+- 🔍 Open to new opportunities (full-stack or frontend roles)
+- 🛠️ Building portfolio projects to showcase my work
+- 📚 Sharpening my skills with LeetCode and system design
+
+## Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/ryancalacsan)
+- [Portfolio](https://ryancalacsan.github.io/)
