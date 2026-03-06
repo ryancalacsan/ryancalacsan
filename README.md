@@ -20,4 +20,4 @@ Most recently, I was **Principal Engineer at PrintNinja**, where I built a 200K+
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/ryancalacsan)
-- [Portfolio](https://ryancalacsan.github.io/)
+- [Portfolio](https://ryancalacsan.dev/)
